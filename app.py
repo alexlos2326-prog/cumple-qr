@@ -99,7 +99,7 @@ HTML_TEMPLATE = """
         <h1>🎉 ¡Feliz Cumpleaños, Scarlet! 🎂</h1>
         <p>Te deseo un día muy especial, lleno de momentos bonitos y mucha alegría.</p>
         <p>¡Espero que la pases increíble hoy y siempre! Se que ya paso hace varios dias pero igual
-        te deseo lo mejor ya que eres una personita que ya es especial par ami✨</p>
+        te deseo lo mejor ya que eres una personita que ya es especial para mi✨</p>
     </div>
 
     <script>
